@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Profile card</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <div class="namecard">
+        <p class="name">Yoshi Kushima</p>
+
+        <div class="contact">
+            <span><a href="http://ec2-54-178-128-192.ap-northeast-1.compute.amazonaws.com">http://ec2-54-178-128-192.ap-northeast-1.compute.amazonaws.com</a></span>
+            <span><a href="http://ec2-54-178-128-192.ap-northeast-1.compute.amazonaws.com:8080">http://ec2-54-178-128-192.ap-northeast-1.compute.amazonaws.com:8080</a></span>
+            <span><a href="https://yoshi504.github.io/linuc101">https://yoshi504.github.io/linuc101</a></span>
+            <span><a href="http://ec2-54-178-128-192.ap-northeast-1.compute.amazonaws.com/publisher.html">http://ec2-54-178-128-192.ap-northeast-1.compute.amazonaws.com/publisher.html</a></span>
+        </div>
+
+</body>
+
+</html>
